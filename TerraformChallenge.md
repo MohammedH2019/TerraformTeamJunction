@@ -18,7 +18,7 @@ Account_replication = GRS
 
 
 
-Specs for resource group (dev):
+Specs for resource group (test):
 Name = any given name 
 Location = any given location 
 
