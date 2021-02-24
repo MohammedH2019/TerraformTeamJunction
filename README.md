@@ -1,25 +1,3 @@
-Hi there , I'm Mohammed :wave:
-
-
----
-<ul>
-<li>I'm a Dev and cloud enthusaists :cloud: </li>
-<li>I'm currently learning everything  :joy:</li>
-<li> I Love to read about productvity  </li>
-<li>fun fact : I love to drink water only  :potable_water:</li>
-</ul>
-
-
----
-
-:closed_book: Latest Blog Posts 
-<ul>
-<li> <a href = "" > A quick overview of Terraform Modules and Variables </a> </li>
-<li> <a href="https://mohammedhoche.medium.com/how-i-developed-my-perfect-sleeping-rituals-c842e1b91b1f">How I Developed My Perfect Sleeping Rituals </a> </li> 
-
-</ul>
-
----
 
 :exclamation: Scottish Summit Challenge
 
@@ -45,7 +23,6 @@ Speicifcation for storage account test  :
 
 </ul>
 
-A startup folder has been created under the branch "Terraform Challenge"
 
 :wave: Bonne Journee
 
