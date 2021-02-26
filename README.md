@@ -25,7 +25,7 @@ Hi there , I'm Mohammed :wave:
 
 Create a resource group and a storage account for both test and dev environment using Modules and input variables . 
 
-Speicifcation for storage account dev  :
+Specification for storage account dev  :
 
 <ul>
 <li> Account_type = "Standard" </li>
