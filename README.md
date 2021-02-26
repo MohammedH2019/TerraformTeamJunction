@@ -3,7 +3,7 @@ Hi there , I'm Mohammed :wave:
 
 ---
 <ul>
-<li>I'm a Dev and cloud enthusaists :cloud: </li>
+<li>I'm a Dev and cloud enthusiast :cloud: </li>
 <li>I'm currently learning everything  :joy:</li>
 <li> I Love to read about productvity  </li>
 <li>fun fact : I love to drink water only  :potable_water:</li>
